@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AplicacionCalculadora
+comment0.text=\r\n\ Calculadora\ de\ Operaciones\ basicas\r\n\r\n\ @authors(JOSE\ RAFAEL\ MORALES\ PARRA\r\n\ \ \ \ \ \ \ \ \ \ SAMUEL\ ALBERTO\ NARANJO\ LOAIZA\r\n\ \ \ \ \ \ \ \ \ \ WILLIAM\ FERNANDO\ VANEGAS\ )\r\n\ @version\ (1_20190808)\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
